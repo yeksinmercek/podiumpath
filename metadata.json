@@ -1,0 +1,6 @@
+{
+  "name": "Podium Path",
+  "description": "Formula 1 and open-wheel driver career game character creation and background story builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
